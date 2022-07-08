@@ -21,7 +21,7 @@ timezone:  Europe/Brussels
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: How to optimize linear regression model                          # the main title
+title: DataScience enthusiast                         # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
