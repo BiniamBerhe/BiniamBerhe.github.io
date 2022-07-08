@@ -13,7 +13,7 @@ tags: Pyhton
 
 - Data preparation for clustaring model
 
-![alt text](../_data/assets/clustering.png)
+![alt text](../_posts/clustering.png)
 
 - After defining the objectives and have a better understanding of our data, we need to preprocess the data to meet the model requirement. This where scaling our data comes into play.
 
@@ -21,7 +21,7 @@ tags: Pyhton
 
 - You can transform data for multiple features to the same scale by normalizing the data. In particular, normalization is well-suited to processing the most common data distribution, the Gaussian distribution
 
-![alt text](../_data/assets/Gaussian.png)
+![alt text](../_posts/Gaussian.png)
 
 #### In general apply normalization when either of the following are true:
 - Your data has a Gaussian distribution.
@@ -31,7 +31,7 @@ tags: Pyhton
 
 - Sometimes, a data set conforms to a power law distribution that clumps data at the low end.
 
-![alt text](../_data/assets/power_log.png)
+![alt text](../_posts/power_log.png)
 
 #### Summary:
  - Applay Log for data that follows power low distribution
